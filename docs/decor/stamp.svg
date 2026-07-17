@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 210">
+  <path d="M59 16h62l19 81H40Z" fill="#d6b78d" stroke="#243653" stroke-width="5"/>
+  <path d="M26 96h128v88H26z" fill="#e7c79d" stroke="#243653" stroke-width="5"/>
+  <path d="M39 109h102v63H39z" fill="#fff9f4" stroke="#c83f3a" stroke-width="5"/>
+  <text x="90" y="151" text-anchor="middle" font-family="serif" font-size="34" fill="#c83f3a">完成</text>
+</svg>
