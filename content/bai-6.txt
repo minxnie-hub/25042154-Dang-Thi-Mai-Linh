@@ -1,0 +1,100 @@
+BÁO CÁO: PHÁT TRIỂN KỸ NĂNG SỬ
+DỤNG AI CÓ TRÁCH NHIỆM VÀ ĐẠO
+ĐỨC TRONG HỌC THUẬT
+I. Phân tích chính sách về AI của trường Đại học
+(Ví dụ sử dụng khung quy định chung mang tính định hướng của các trường đại học
+lớn tại Việt Nam như ĐHQG Hà Nội/TP.HCM hoặc Đại học Bách Khoa Hà Nội)
+
+Hiện nay, các trường đại học lớn tại Việt Nam đều chuyển từ thế bị động "cấm đoán"
+sang chủ động quản lý và khuyến khích sử dụng AI có kiểm soát. Chính sách chung
+thường xoay quanh 3 trụ cột:
+
+   ●​ Sự minh bạch: Người học có quyền dùng AI để tìm ý tưởng, sửa lỗi ngữ pháp
+      hoặc gợi ý cấu trúc bài, nhưng bắt buộc phải khai báo trong danh mục tài liệu
+      tham khảo hoặc phần phụ lục.
+   ●​ Trách nhiệm giải trình: AI không phải là một tác giả. Người học phải chịu
+      trách nhiệm 100% về tính chính xác của thông tin (tránh lỗi "ảo tưởng" -
+      hallucination của AI) và các lỗi đạo văn nếu có.
+   ●​ Ranh giới gian lận: Việc copy-paste nguyên văn bài làm do AI tạo ra để nộp
+      mà không qua xử lý, hoặc dùng AI để làm bài kiểm tra trực tuyến trực tiếp, đều
+      bị khép vào hành vi gian lận học thuật và xử lý kỷ luật theo quy chế.
+
+II. Thực hành: Thực hiện nhiệm vụ học tập với sự hỗ trợ của
+AI
+   ●​ Nhiệm vụ chọn: Tổng hợp tài liệu (Literature Review) về đề tài "Tác động của
+      mạng xã hội đến tâm lý thanh thiếu niên".
+
+1. Nhật ký Prompt và Đầu ra (Output)
+
+   ●​ Prompt 1 (Tìm cấu trúc): "Tôi đang viết bài tổng hợp tài liệu về tác động của
+      mạng xã hội đến tâm lý thanh thiếu niên. Hãy gợi ý cho tôi 4 khía cạnh chính
+      cần phân tích."
+   ●​ Output AI 1: Gợi ý 4 khía cạnh: (1) Rối loạn giấc ngủ do ánh sáng xanh và
+      thói quen thức khuya; (2) Hội chứng FOMO (Sợ bỏ lỡ) gây lo âu; (3) So sánh
+      xã hội dẫn đến tự ti về ngoại hình; (4) Nguy cơ bắt nạt trên mạng
+      (Cyberbullying).
+   ●​ Prompt 2 (Tìm kiếm nguồn giả định): "Cho tôi biết các nghiên cứu lớn trên
+      thế giới nói gì về mối liên hệ giữa FOMO và mạng xã hội?"
+   ●​ Output AI 2: Cung cấp thông tin tổng quan về hội chứng FOMO, cơ chế kích
+      thích dopamine của lượt "like", và dẫn một số xu hướng nghiên cứu (tuy nhiên
+      không kèm link hoặc số liệu cụ thể năm 2026).
+
+2. Đánh giá, Chỉnh sửa và Tích hợp
+
+   ●​ Đánh giá: Ý tưởng về 4 khía cạnh của AI rất logic và toàn diện. Tuy nhiên,
+      phần nội dung sâu về FOMO do AI cung cấp chỉ dừng lại ở mức lý thuyết
+      chung, thiếu các số liệu thống kê thực tế tại Việt Nam và có nguy cơ "ba hoa"
+      về tên tác giả.
+   ●​ Chỉnh sửa & Tích hợp: Người viết giữ lại khung 4 phần của AI. Sau đó, tự
+      truy cập các nguồn uy tín như Google Scholar để tìm các bài báo khoa học thực
+      tế, thay thế các nhận định chung chung bằng số liệu cụ thể (ví dụ: Tỷ lệ trầm
+      cảm tăng bao nhiêu % theo nghiên cứu của Unicef).
+   ●​ Trích dẫn minh bạch (Ví dụ cách ghi trong bài):​
+      "Cấu trúc luận điểm của phần này được xây dựng dựa trên gợi ý từ mô hình
+      ngôn ngữ lớn ChatGPT (OpenAI, tháng 7/2026). Các số liệu và minh chứng
+      thực tế sau đó đã được tác giả tự đối chiếu và bổ sung từ nghiên cứu của
+      Nguyễn Văn A (2024)..."
+
+III. Phân tích các vấn đề đạo đức trong học thuật
+1. Ranh giới giữa hỗ trợ hợp lý và gian lận học thuật
+
+   ●​ Hỗ trợ hợp lý: Sử dụng AI như một trợ lý ý tưởng. Bạn bí từ, bạn nhờ AI gợi ý
+      từ đồng nghĩa; bạn có một bài viết thô, nhờ AI sửa lỗi chính tả; bạn chưa biết
+      bắt đầu từ đâu, nhờ AI lập dàn ý.
+   ●​ Gian lận học thuật: Sử dụng AI như một người viết thuê. Nhập đề bài vào, lấy
+      kết quả ra, ký tên mình và nộp. Lúc này, tư duy của AI đã thay thế hoàn toàn tư
+      duy của người học.
+
+2. Quyền sở hữu trí tuệ và trích dẫn
+
+AI không có quyền tác giả vì nó chỉ xào xáo lại dữ liệu từ hàng tỷ nguồn có sẵn. Nếu
+bạn dùng AI mà không trích dẫn, đó là đạo văn công nghệ. Nếu AI tự "bịa" ra một
+nguồn tài liệu không có thật và bạn đưa vào bài, đó là ngụy tạo dữ liệu-một lỗi cực kỳ
+nghiêm trọng trong nghiên cứu khoa học.
+3. Tác động đến quá trình học tập và phát triển kỹ năng
+
+   ●​ Tích cực: Tiết kiệm thời gian làm các việc lặp đi lặp lại (định dạng, sửa lỗi),
+      giúp tập trung vào tư duy phản biện và phân tích sâu.
+   ●​ Tiêu cực: Gây hiệu ứng "lười tư duy". Nếu quá phụ thuộc, người học sẽ mất đi
+      khả năng viết lách, khả năng tổng hợp thông tin thô và kỹ năng giải quyết vấn
+      đề độc lập.
+
+IV. Bộ nguyên tắc cá nhân: "Sử dụng AI có trách nhiệm" (5
+Nguyên tắc)
+   1.​ Nguyên tắc "Ý tưởng của tôi, Cấu trúc của tôi": Mọi bài viết phải xuất phát
+       từ quan điểm và tư duy cốt lõi của bản thân trước khi tìm đến sự trợ giúp của
+       AI.
+   2.​ Nguyên tắc "Xác thực kép" (Double-check): Không bao giờ tin 100% vào số
+       liệu, tên tác giả hay sự thật lịch sử do AI cung cấp. Mọi thông tin phải được
+       kiểm tra lại bằng nguồn chính thống.
+   3.​ Nguyên tắc "Minh bạch tuyệt đối": Khai báo rõ ràng, trung thực phần nào,
+       công đoạn nào trong bài làm có sự can thiệp của AI.
+   4.​ Nguyên tắc "Nói không với Copy-Paste": Chỉ tiếp thu kiến thức và cách diễn
+       đạt của AI để tự viết lại bằng văn phong của chính mình.
+   5.​ Nguyên tắc "Công cụ, không phải chỗ dựa": Chỉ dùng AI để nâng cao hiệu
+       suất, không để AI thay thế quá trình rèn luyện các kỹ năng cốt lõi (đọc, viết,
+       phản biện).
+
+V. Infographic minh họa: "Sử dụng AI có trách nhiệm trong
+học thuật"
+

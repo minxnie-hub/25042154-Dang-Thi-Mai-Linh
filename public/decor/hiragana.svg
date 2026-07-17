@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+  <g font-family="serif" font-size="54" text-anchor="middle" fill="#243653">
+    <g transform="translate(0)"><rect x="10" y="10" width="80" height="95" rx="14" fill="#e9b6cc"/><text x="50" y="76">あ</text></g>
+    <g transform="translate(100)"><rect x="10" y="10" width="80" height="95" rx="14" fill="#afd0e8"/><text x="50" y="76">い</text></g>
+    <g transform="translate(200)"><rect x="10" y="10" width="80" height="95" rx="14" fill="#f4dda9"/><text x="50" y="76">う</text></g>
+  </g>
+</svg>

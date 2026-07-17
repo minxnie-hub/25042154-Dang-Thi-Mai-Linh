@@ -1,0 +1,147 @@
+BÁO CÁO: PHÁT TRIỂN KỸ NĂNG VIẾT
+PROMPT HIỆU QUẢ TRONG HỌC TẬP
+I. MỤC TIÊU
+   ●​ Hiểu rõ cơ chế hoạt động và cách tối ưu hóa năng lực của các mô hình ngôn ngữ
+      lớn (LLMs).
+   ●​ Xây dựng và thử nghiệm các cấp độ prompt (Cơ bản-Cải tiến-Nâng cao) cho 3 tác
+      vụ học tập cốt lõi.
+   ●​ Đút rút các nguyên tắc cốt lõi trong Prompt Engineering để ứng dụng vào việc tự học
+      và nghiên cứu.
+
+II. XÂY DỰNG VÀ THỬ NGHIỆM CÁC PHIÊN BẢN
+PROMPT
+Để đồng nhất cho việc thử nghiệm, các prompt dưới đây sẽ lấy ví dụ cụ thể về chủ đề: "Trí
+tuệ nhân tạo (AI) và mạng nơ-ron nhân tạo".
+
+Tác vụ 1: Tóm tắt bài đọc/tài liệu học thuật
+      Văn bản giả định đầu vào: Một bài báo khoa học về kiến trúc mạng nơ-ron
+      cuốn tích (CNN) trong xử lý ảnh.
+
+   ●​ Prompt Cơ bản:​
+      "Hãy tóm tắt lại bài nghiên cứu sau đây”
+●​ Prompt Cải tiến:​
+   "Hãy tóm tắt bài nghiên cứu dưới đây thành một đoạn văn khoảng 200 chữ. Tập
+   trung vào 3 yếu tố: Mục đích nghiên cứu, phương pháp thực hiện và kết quả đạt
+   được."
+
+
+
+
+     ●​ Prompt Nâng cao (Role + Constraints + Format):​
+        "Bạn là một chuyên gia khoa học máy tính có khả năng cô đọng thông
+        tin xuất sắc. Nhiệm vụ của bạn là đọc văn bản dưới đây và tạo một bản
+        tóm tắt học thuật theo cấu trúc sau:
+             1.​ Một câu luận đề thể hiện đóng góp chính của bài viết.
+               2.​ Danh sách 3-5 điểm cốt lõi về mặt kỹ thuật.
+               3.​ Hạn chế hoặc hướng phát triển được tác giả nhắc đến.​
+                   Hãy giữ văn phong khách quan, học thuật và loại bỏ các chi tiết
+                   thừa mập mờ.
+
+
+
+
+Tác vụ 2: Giải thích một khái niệm phức tạp
+    Khái niệm lựa chọn: "Cơ chế chú ý (Attention Mechanism) trong kiến trúc
+    Transformer".
+
+  ●​ Prompt Cơ bản:​
+     "Giải thích cho tôi về Cơ chế chú ý (Attention Mechanism) là gì."
+●​ Prompt Cải tiến:​
+   "Giải thích khái niệm 'Cơ chế chú ý (Attention Mechanism) trong AI'. Hãy dùng một ví
+   dụ thực tế hoặc một phép ẩn dụ dễ hiểu để minh họa và giải thích rõ tại sao nó lại
+   quan trọng hơn các công nghệ cũ."
+●​ Prompt Nâng cao (Role + Few-shot + Analogy):​
+   "Bạn là một giảng viên đại học nổi tiếng với phong cách dạy học trực
+   quan, dễ hiểu. Nhiệm vụ của bạn là giải thích khái niệm 'Attention
+   Mechanism' cho một sinh viên năm nhất chưa có nền tảng sâu về Deep
+   Learning.​
+   Hãy làm theo cấu trúc sau:
+      ○​ Định nghĩa đơn giản: (Không dùng thuật ngữ toán học nặng
+          nề).
+      ○​ Ẩn dụ thực tế: (Ví dụ: Cách con người đọc sách và tập trung
+          vào từ khóa).
+      ○​ Ví dụ so sánh (Few-shot kiểu mẫu): Giống như khi giải thích
+          mạng nơ-ron truyền thống giống như việc đọc hết cả cuốn sách
+          từ đầu đến cuối để tìm 1 câu, thì Attention giống như việc lật
+          ngay đến trang có mục từ khóa cần tìm.
+      ○​ Ý nghĩa cốt lõi: Tại sao nó giúp mô hình dịch thuật tốt hơn?"
+Tác vụ 3: Tạo bộ câu hỏi ôn tập cho một chủ đề
+    Chủ đề lựa chọn: "Lịch sử và các cột mốc phát triển của Trí tuệ nhân tạo (AI)".
+
+  ●​ Prompt Cơ bản:​
+     "Tạo cho tôi một bộ câu hỏi trắc nghiệm về lịch sử phát triển của AI."
+●​ Prompt Cải tiến:​
+   "Tạo 5 câu hỏi trắc nghiệm (mỗi câu 4 đáp án A, B, C, D) về chủ đề lịch sử AI, tập
+   trung vào giai đoạn 'Mùa đông AI' và sự trỗi dậy của Deep Learning. Cung cấp đáp
+   án ở cuối."
+●​ Prompt Nâng cao (Chain-of-Thought + Bloom's Taxonomy):​
+   "Bạn là một chuyên gia khảo thí và xây dựng chương trình học viên. Hãy
+   tạo một bộ câu hỏi ôn tập gồm 3 phần dựa trên Thang đo nhận thức
+   Bloom về chủ đề 'Lịch sử AI':
+       1.​ Cấp độ Nhận biết (1 câu trắc nghiệm): Xác định mốc thời gian/sự
+           kiện quan trọng.
+       2.​ Cấp độ Thông hiểu (1 câu tự luận ngắn): Giải thích lý do dẫn đến
+           'Mùa đông AI'.
+       3.​ Cấp độ Phân tích/Vận dụng (1 câu tình huống): So sánh hướng
+           tiếp cận dựa trên luật lệ (Rule-based) và hướng tiếp cận dựa trên
+           dữ liệu (Data-driven).​
+           Yêu cầu: Đối với mỗi câu hỏi, hãy giải thích tư duy logic
+           (Chain-of-Thought) đằng sau câu trả lời đúng để giúp tôi hiểu sâu
+           bản chất."
+III. BẢNG SO SÁNH KẾT QUẢ THỬ NGHIỆM
+ Tiêu chí       Prompt Cơ bản          Prompt Cải tiến        Prompt Nâng cao
+
+
+
+ Độ dài &       Ngắn, text thuần,      Có độ dài vừa phải,    Bố cục chuẩn chỉnh
+ Định           không chia bố cục      bắt đầu xuất hiện      (Bolding, Bullet points,
+ dạng           rõ ràng.               các gạch đầu dòng.     Tiêu đề phụ rõ ràng).
+
+
+
+ Độ chính       Chung chung, đôi       Đi trúng trọng tâm     Tập trung 100% vào
+ xác / Tập      khi chứa thông tin     yêu cầu nhưng còn      mục tiêu, loại bỏ thông
+ trung          lan man không cần      thiếu chiều sâu.       tin rác.
+                thiết.
+
+
+
+ Giá trị        Thấp. Người học        Trung bình. Giúp       Cao nhất. Cung cấp cả
+ học tập        mất thời gian tự hệ    nắm nhanh ý chính      góc nhìn chuyên gia, ẩn
+                thống lại thông tin.   nhưng chưa kích        dụ dễ nhớ và tư duy
+                                       thích tư duy.          từng bước (CoT).
+
+
+
+
+IV. PHÂN TÍCH LÝ DO HIỆU QUẢ CỦA PROMPT
+Qua thực nghiệm, các prompt Cải tiến và Nâng cao mang lại kết quả vượt trội vì những lý
+do sau:
+
+   1.​ Giảm thiểu sự mơ hồ (Ambiguity): Prompt cơ bản quá ngắn khiến AI phải "đoán" ý
+       định của người dùng (về độ dài, văn phong, định dạng). Prompt nâng cao thiết lập
+       biên giới rõ ràng (Constraints), giúp AI không đi lệch hướng.
+   2.​ Kích hoạt "Vùng tri thức" phù hợp (Role Prompting): Khi gắn vai cho AI ("Bạn là
+       giảng viên đại học", "Bạn là nhà khoa học"), AI sẽ truy xuất các từ vựng, văn phong
+       và cấu trúc lập luận phù hợp với ngữ cảnh đó, thay vì trả lời như một chatbot thông
+       thường.
+   3.​ Kỹ thuật Chain-of-Thought (Suy nghĩ từng bước): Yêu cầu AI giải thích "tại sao"
+       hoặc đưa ra tư duy logic giúp mô hình phân rã bài toán phức tạp thành các bước
+       nhỏ, từ đó giảm thiểu hiện tượng "ảo tưởng" (hallucination) và tăng độ chính xác của
+       câu trả lời.
+
+V. TỔNG HỢP NGUYÊN TẮC VÀ MẸO VIẾT PROMPT
+TRONG HỌC TẬP
+Để biến AI thành một "trợ lý học tập" thực thụ, hãy áp dụng công thức C-R-I-S-P:
+●​ C - Context (Ngữ cảnh): Cung cấp bạn là ai (học sinh, sinh viên năm cuối) và bạn
+   đang học môn gì.
+●​ R - Role (Vai trò): Giao vai trò cụ thể cho AI (Gia sư kiên nhẫn, Giám khảo nghiêm
+   túc, Chuyên gia phản biện).
+●​ I - Instruction (Chỉ thị rõ ràng): Dùng các động từ hành động mạnh (Tóm tắt, Phân
+   tích, So sánh, Liệt kê).
+●​ S - Style/Format (Định dạng đầu ra): Yêu cầu rõ định dạng (Bảng biểu, Bản đồ tư
+   duy bằng text, Bullet points, giới hạn từ).
+●​ P - Pedagogy (Phương pháp sư phạm): Yêu cầu AI áp dụng các phương pháp
+   học tập tích cực như Feynman (giải thích cho đứa trẻ 5 tuổi), Socratic (hỏi ngược lại
+   để người học tự tư duy), hoặc Bloom (phân cấp câu hỏi).
+

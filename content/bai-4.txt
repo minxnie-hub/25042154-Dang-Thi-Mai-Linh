@@ -1,0 +1,59 @@
+  BÁO CÁO HIỆU QUẢ SỬ DỤNG CÔNG CỤ TRỰC TUYẾN
+                CHO DỰ ÁN NHÓM
+
+Họ và tên: Đặng Thị Mai Linh
+MSSV: 25042154
+1. Nhiệm vụ trong nhóm:
+- Vai trò trong nhóm: Thành viên
+- Các công việc được giao: viết nội dung, làm slide thuyết trình
++ Khi làm nội dung đã sử dụng công cụ Google Docs
++ Khi làm slide thuyết trình sử dụng công cụ Canva
+2. Công cụ sử dụng:
+- Công cụ soạn thảo tài liệu cộng tác: Google Docs: Sử dụng với mục đích viết bài báo
+cáo, tổng hợp nội dung nghiên cứu.
+
+
+
+
+- Công cụ lưu trữ và chia sẻ tệp: Google Drive: Sử dụng với mục đích lưu trữ các tệp
+tin, lưu trữ dữ liệu đã tìm kiếm.
+- Công cụ giao tiếp nhóm: Zalo: Sử dụng với mục đích liên lạc giữa các thành viên,
+trao đổi ý kiến và nội dung công việc.
+3. Thách thức:
+-​     Rủi ro ghi đè dữ liệu và mất mạch văn khi đồng sáng tạo (Google Docs)
+Khi 3 đến 4 thành viên cùng truy cập và chỉnh sửa trực tiếp trên một văn bản Google
+Docs tại cùng một thời điểm, một xung đột lớn về mặt thao tác đã xảy ra. Do chưa có
+sự thống nhất, các thành viên rất dễ vô tình viết chồng chéo, xóa nhầm các luận điểm,
+câu từ đã được người khác trau chuốt trước đó. Việc này không chỉ gây ức chế tâm lý,
+làm gián đoạn mạch tư duy logic của người viết mà còn làm mất thời gian của nhóm
+để tìm cách khôi phục lại nội dung cũ.
+-​      Trôi thông tin và nguy cơ mất dữ liệu vĩnh viễn do tính chất nền tảng (Zalo)
+Zalo là một kênh giao tiếp nhanh, dẫn đến tần suất tin nhắn trong nhóm chat diễn ra
+dày đặc. Các thông báo quan trọng, liên kết (links) bài học hay các chỉ thị về deadline
+rất nhanh bị trôi đi và loãng giữa các cuộc hội thoại tán gẫu. Đặc biệt hơn, do cơ chế
+tự động xóa bộ nhớ đệm sau một thời gian của Zalo, nhiều tài liệu thô, hình ảnh tư liệu
+do đồng đội gửi lên nhóm chat nhanh chóng bị chuyển sang trạng thái "Tệp tin đã hết
+hạn hoặc bị xóa". Nếu không có biện pháp lưu trữ kịp thời, nhóm sẽ đối mặt với nguy
+cơ mất trắng dữ liệu minh chứng quan trọng.
+
+4. Giải pháp:
+-​     Triệt để áp dụng chế độ "Gợi ý" (Suggesting) và Quản lý lịch sử phiên bản
+(Version History)
+Đối với công cụ Google Docs, chúng em đã thiết lập lại quy tắc biên soạn nghiêm
+ngặt. Thay vì để tất cả mọi người cùng dùng chế độ Chỉnh sửa trực tiếp (Editing), yêu
+cầu các thành viên khi muốn chỉnh sửa bài làm của người khác bắt buộc phải chuyển
+sang chế độ Gợi ý (Suggesting) để người phụ trách chính có quyền duyệt (Accept)
+hoặc từ chối (Reject).
+-​     Thiết lập "Quy trình 2 bước" để tối ưu hóa Zalo và lưu trữ vĩnh viễn trên
+Google Drive
+Nhằm khắc phục nhược điểm cốt cố hữu của Zalo (trôi tin nhắn và xóa file tự động),
+em đã tự mình thực hiện và duy trì "Quy trình 2 bước" trong suốt dự án:
++ Bước 1 (Tiếp nhận trên Zalo): Zalo chỉ được dùng làm công cụ truyền tin nhanh,
+kêu gọi biểu quyết (Poll) hoặc thông báo ngắn (Ví dụ: "Mình vừa nộp file, mọi người
+check nhé").
++ Bước 2 (Số hóa vĩnh viễn trên Google Drive): Bất kỳ tệp tin hay ảnh minh chứng
+nào được gửi qua Zalo, chúng em sẽ ngay lập tức tải về và phân loại đưa lên hệ thống
+thư mục nhiều cấp trên Google Drive. Đồng thời, chúng em sử dụng tính năng Ghim
+tin nhắn của Zalo để cố định link thư mục Google Drive lên đầu nhóm chat, đảm bảo
+không có bất kỳ dữ liệu nào bị thất lạc hay hết hạn
+

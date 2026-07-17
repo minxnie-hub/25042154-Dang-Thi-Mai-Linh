@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 230">
+  <path d="M26 53 85 14l59 39 12 158H14Z" fill="#e9b6cc" stroke="#243653" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M35 58h100" stroke="#c86b91" stroke-width="5"/>
+  <path d="M85 14c-22 0-22 25 0 25s22-25 0-25Z" fill="#fff9f4" stroke="#243653" stroke-width="4"/>
+  <rect x="38" y="88" width="94" height="91" rx="12" fill="#fff9f4" stroke="#c83f3a" stroke-width="4"/>
+  <text x="85" y="127" text-anchor="middle" font-family="serif" font-size="26" fill="#c83f3a">学業</text>
+  <text x="85" y="161" text-anchor="middle" font-family="serif" font-size="26" fill="#c83f3a">成就</text>
+  <path d="m55 205 30-23 30 23" fill="none" stroke="#c86b91" stroke-width="5"/>
+</svg>
