@@ -107,11 +107,8 @@ export default function Home() {
 
       <section className="projects-section shell" id="bai-tap">
         <div className="section-heading projects-heading">
-          <div>
-            <span className="section-kicker">SELECTED COURSEWORK</span>
-            <h2>6 bài tập · trình bày lại từ báo cáo gốc</h2>
-          </div>
-          <p>Nội dung được giữ đúng theo file khách cung cấp; bảng được dựng lại, ảnh minh chứng đặt theo trình tự và PDF gốc luôn có sẵn để đối chiếu.</p>
+          <span className="section-kicker">SELECTED COURSEWORK</span>
+          <h2>6 bài tập · trình bày lại từ báo cáo gốc</h2>
         </div>
 
         <div className="projects-grid">
